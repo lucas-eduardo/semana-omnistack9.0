@@ -1,0 +1,1 @@
+URI_MONGO = mongodb+srv://{USER_ID}:{PASSWORD}@omnistack-bfdt6.mongodb.net/semana09?retryWrites=true&w=majority
